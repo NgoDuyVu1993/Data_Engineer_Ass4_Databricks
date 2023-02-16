@@ -15,4 +15,14 @@ We can start upload the csv files to the workspace </br>
 After the files are availble on DBFS, we can write Spark code to ingest the data </br>
 ![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass4_Databricks/blob/main/image/Ingest%20Data%20by%20Notebook.jpg)
 
+# Transform Process
+The data from csv can be transformed to the data schema that can answer the business questions </br>
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass4_Databricks/blob/main/image/Start%20Schema.jpg)
+
+To convert the raw data to valuable data format, we must transform the data by following format </br>
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass4_Databricks/blob/main/image/Transform%20Process.jpg)
+
+The results tables created </br>
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass4_Databricks/blob/main/image/Result%20Tables.jpg)
+
 
